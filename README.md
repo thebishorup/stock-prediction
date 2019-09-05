@@ -1,13 +1,9 @@
-# stock-prediction
+## Stock Prediction
 
-## This code is for stock predition using sklearn, pandas and numpy
+This code is for stock perdition using sklearn, pandas and numpy.
+Following aggressors are utilize to predict the future stock price:
 
-## Following regressors are utilize to predict the future stock price
-
-## \* Linear Regressor
-
-## \* SVR
-
-## \* Polynomial
-
-## \* KNN
+ - Linear Regression
+ - SVR
+ - Polynomial
+ - KNN
